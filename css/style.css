@@ -22,5 +22,5 @@ body {
 }
 .bottom {
   height: 45%;
-  overflow-y: scroll;
+  overflow-y: auto;
 }
